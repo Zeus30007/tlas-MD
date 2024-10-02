@@ -51,6 +51,7 @@
 17 --- Yor
 18 --- Shinbou
 19 --- Eiko
+20 --- Ryuk
 
 Image Source: https://wall.alphacoders.com/
 Image Source: https://wallpapercave.com/
@@ -288,4 +289,15 @@ global.charID19 = {
   botImage4 : "https://images6.alphacoders.com/126/1260043.png",
   botImage5 : "https://images6.alphacoders.com/124/1247977.jpg",
   botImage6 : "https://images2.alphacoders.com/125/1251795.jpg",
+}
+
+global.charID20 = {
+    botName : "Ryuk",
+    botVideo : "",
+    botImage1 : "https://i.ibb.co/fCQxgGP/Picsart-24-10-02-03-00-21-734.png",
+    botImage2 : "https://i.ibb.co/LZK2R8b/BG.jpg",
+    botImage3 : "https://i.ibb.co/9ZJSkPk/card.jpg",
+    botImage4 : "https://i.ibb.co/VT2GmFd/69d1f718e16f7cd5aadc070d976c2252.jpg",
+    botImage5 : "https://i.ibb.co/R01Rj5H/Atlas.jpg",
+    botImage6 : "https://i.ibb.co/xqwJqFj/052546773e68724069963f851f30a2a8.jpg",
 }
